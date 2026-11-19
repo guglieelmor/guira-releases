@@ -1,6 +1,6 @@
 # Guira: instaladores
 
-O Guira é o dashboard da squad Financeiro para a daily (sprint, board, backlog, urgências e impedimentos direto do Jira). Este repositório só guarda as **Releases** com os instaladores; o código fica em repositório privado.
+O Guira é um facilitador do Jira: sprint, board, backlog, urgências, impedimentos e a daily da equipe num só lugar. Este repositório só guarda as **Releases** com os instaladores; o código fica em repositório privado.
 
 **Baixe o instalador na [última Release](https://github.com/guglieelmor/guira-releases/releases/latest):**
 
